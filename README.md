@@ -1,16 +1,21 @@
-## Hi there 👋
+# James M. Stewart
+PhD Researcher at the University of Arkansas | Computational Mechanics (FEA)
 
-<!--
-**jmstwrt/jmstwrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Brief Bio
+I am a PhD researcher (civil/structural engineering) at the University of Arkansas working under Dr. Michelle Barry. My research focuses on nonlinear FEA in LS-DYNA, constitutive modeling.
 
-Here are some ideas to get you started:
+### Research Interests
+*Nonlinear computational modeling
+*Constitutive modeling (plasticity, damage mechanics, etc)
+*Thermal-structure and fluid-structure interaction
+*Computational Fluid Dynamics (CFD)
+*Machine learning and applications to structural, thermal, or fluid domains
+*Structural topology optimization
+*Multiphysics simulation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+*
+*
+
+## Research and Technical Notes
+*

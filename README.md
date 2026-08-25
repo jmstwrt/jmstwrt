@@ -15,7 +15,7 @@ I am a PhD researcher (civil/structural engineering) at the University of Arkans
 
 *Note: I am uploading selected projects and technical notes as I find time.* 
 ## Featured Projects
-* [Monte Carlo Simulation: How long does a game of "war" take?](https://github.com/jmstwrt/monte_carlo_modeling): A simple Python-based Monte Carlo script I built wondering why my card game was taking forever. Ultimately, it showed that injecting realistic noise into a deterministic model gives more accurate results.
+* [Monte Carlo Simulation: How long does a game of "war" take?](https://github.com/jmstwrt/monte_carlo_modeling): A simple Python-based Monte Carlo script I built wondering why my card game was taking forever. Ultimately, it showed how injecting real-world entropy (unmodeled human behavior) into an overly idealized deterministic model yielded much more accurate results.
 
 ## Research and Technical Notes
 *
